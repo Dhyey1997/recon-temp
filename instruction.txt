@@ -1,0 +1,1 @@
+python-lambda-local -f verification -t 150 washevents_verification.py config.json

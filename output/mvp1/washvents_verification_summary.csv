@@ -1,0 +1,7 @@
+,Verification Categories,Counts
+0,Number of sample events,77
+1,Number of aurora events,65
+2,Number of common events,61
+3,Total mismatching events,62
+4,Number of mismatched events in column (REGION): 1,1
+5,Number of mismatched events in column (TK_EGTHDM_PREV): 61,61

@@ -1,0 +1,24 @@
+{
+    "module": "mvp2",
+    "input": {
+        "sample_output": "E:\\Projects\\Python\\recon-temp\\input\\mvp2\\cfm56_stats_aws.csv",
+        "aurora_output": "E:\\Projects\\Python\\recon-temp\\input\\mvp2\\cfm56_stats_gp.csv"
+    }, 
+    "output": {
+        "output_path": "E:\\Projects\\Python\\recon-temp\\output\\mvp2\\",
+        "common_washevents": "consolidated_mismatched.csv",
+        "missing_events_sample_output": "missing_events_sample_output.csv",
+        "missing_events_aurora_output": "missing_events_aurora_output.csv",
+        "summary": "washvents_verification_summary.csv",
+        "date_diff_df": "missing_events_date_diff.csv"
+    },
+    "parameters": [
+        "tk_egthdm_bfr",
+        "tk_egthdm_aft"
+    ],
+    "difference_calculation_parameters": [
+        "tk_egthdm_bfr",
+        "tk_egthdm_aft"
+    ],
+    "separate_store": "True"
+}

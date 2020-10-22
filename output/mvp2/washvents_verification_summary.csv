@@ -1,0 +1,10 @@
+,Verification Categories,Counts
+0,Number of sample events,53
+1,Number of aurora events,51
+2,"Number of matching events (ESN, EVENT_DATE)",49
+3,Total missing events in sample output,4
+4,Total missing events in aurora output,2
+5,Number of mismatched events in column (TK_EGTHDM_BFR):,25
+6,Number of matched events in column (TK_EGTHDM_BFR):,24
+7,Number of mismatched events in column (TK_EGTHDM_AFT):,26
+8,Number of matched events in column (TK_EGTHDM_AFT):,23
